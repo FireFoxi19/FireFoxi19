@@ -1,5 +1,5 @@
 <br>Hi, I am FireFoxi, a novice developer of android and computer applications!</br>
-<img src = "https://github.com/FireFoxi19/FireFoxi19/blob/main/assets/курама.jpg" height = "768" weight="1140">
+<img src = "https://github.com/FireFoxi19/FireFoxi19/blob/main/assets/курама.jpg" height = "600" weight="1140">
 
 
 <br>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜</br>
